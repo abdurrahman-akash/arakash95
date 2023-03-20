@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arakash95
-- 👀 I’m interested in C programming language.
+- 👀 I’m a Web Devoloper & Programmer
 - 🌱 I’m currently learning B.Sc in CSE at Daffodil International University.
 - 💞️ I’m looking to collaborate on all my github friends.
 
