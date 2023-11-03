@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arakash95
+- 👋 Hi, I’m MD. Abdur Rahman Akash
 - 👀 I’m a Jr. web application Developer & Programmer
 - 🌱 I’m studying for a B.Sc in CSE at Daffodil International University.
 - 💞️ I’m looking to collaborate with all my GitHub friends.
